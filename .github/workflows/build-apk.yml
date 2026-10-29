@@ -29,10 +29,6 @@ jobs:
           npm install
           mkdir -p www
 
-      - name: Add Android Platform
-        run: |
-          npx cap add android
-
       - name: Sync Capacitor
         run: |
           npx cap sync android
