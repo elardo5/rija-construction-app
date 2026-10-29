@@ -1,0 +1,9 @@
+{
+  "appId": "com.rija_construction.app",
+  "appName": "rija-construction",
+  "webDir": "www",
+  "server": {
+    "url": "https://mr-rija-vercel.vercel.app/",
+    "cleartext": true
+  }
+}
